@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "508538110281",
+    "project_id": "demonotification-df9e1",
+    "storage_bucket": "demonotification-df9e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508538110281:android:4117c6d2ff081da8435a98",
+        "android_client_info": {
+          "package_name": "com.mixiapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZq_slWV3kXTdLBcNZ77OFHfrsr8BFi3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
